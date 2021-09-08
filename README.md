@@ -1,0 +1,3 @@
+- @DominicJones / Dominic Jones
+- Interests: C++, automatic differentiation, computational fluid dynamics, GPGPU porting
+- Contact: dominic.jones@gmx.co.uk (London, UK)
